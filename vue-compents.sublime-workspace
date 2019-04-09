@@ -1,0 +1,1138 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"params2"
+			],
+			[
+				"deg_",
+				"deg_0"
+			],
+			[
+				"cic",
+				"circleDeg"
+			],
+			[
+				"value",
+				"valueR"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"_s",
+				"__scrollTop"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin-t",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"mod",
+				"modelName"
+			],
+			[
+				"htl",
+				"html\thtml"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"is",
+				"isCoverletter"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margn",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"typ",
+				"typeof\tkeyword"
+			],
+			[
+				"len",
+				"length\twarning"
+			],
+			[
+				"index",
+				"indexOf\twarning"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"set",
+				"setTimeout\tfunction"
+			],
+			[
+				"moti",
+				"modelTitle\tparameter"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"checkp",
+				"checkPart1"
+			],
+			[
+				"check",
+				"checkPart2"
+			],
+			[
+				"Rea",
+				"ReactDOM\talias"
+			],
+			[
+				"tim",
+				"timer\tproperty"
+			],
+			[
+				"clear",
+				"clearInterval\tfunction"
+			],
+			[
+				"tol",
+				"toLocaleTimeString\tmethod"
+			],
+			[
+				"pro",
+				"props\tparameter"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"ex",
+				"extends\tkeyword"
+			],
+			[
+				"_t",
+				"_top\tlocal var"
+			],
+			[
+				"ses",
+				"setSkill\tlocal function"
+			],
+			[
+				"SC",
+				"success\twarning"
+			],
+			[
+				"IN",
+				"IN_redirect_uri\tlocal var"
+			],
+			[
+				"in",
+				"IN\twarning"
+			],
+			[
+				"FUN",
+				"function\tkeyword"
+			],
+			[
+				"ese",
+				"else\tkeyword"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margin-to",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"inner",
+				"innerWidth\tproperty"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"inn",
+				"innerHeight\tproperty"
+			],
+			[
+				"_",
+				"_tip_fns\tlocal var"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"parse",
+				"parseInt\tfunction"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"backgc",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bgg",
+				"bgg2"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"add",
+				"tagAddEvent"
+			],
+			[
+				"edit",
+				"editor"
+			],
+			[
+				"edo",
+				"editorName"
+			],
+			[
+				"eidn",
+				"editorName"
+			],
+			[
+				"tipsp",
+				"tip_space"
+			],
+			[
+				"tips",
+				"tip_space"
+			],
+			[
+				"war",
+				"wrap2"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bakc",
+				"background-position"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"al",
+				"absolute\tposition"
+			],
+			[
+				"tip",
+				"tips_p"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"pnu",
+				"p_num"
+			],
+			[
+				"btn_",
+				"btn_prev"
+			],
+			[
+				"targ",
+				"targetIdx"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"maxTop"
+			],
+			[
+				"this",
+				"_this"
+			],
+			[
+				"model_ta",
+				"model_sortable"
+			],
+			[
+				"nam",
+				"name_tip"
+			],
+			[
+				"lis",
+				"lists"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"tog",
+				"toggleClass"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"show",
+				"showText"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"pading",
+				"padding-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"regi",
+				"registerData"
+			],
+			[
+				"imagi",
+				"imageInfo"
+			],
+			[
+				"city",
+				"citys"
+			],
+			[
+				"sele",
+				"selector2"
+			],
+			[
+				"prive",
+				"uploadImagePreview"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"getStroke",
+				"getStrokeWidth"
+			],
+			[
+				"Pa",
+				"PathFillImage"
+			],
+			[
+				"scal",
+				"scale"
+			],
+			[
+				"fro",
+				"fromCircle"
+			],
+			[
+				"px",
+				"px2pptSize"
+			],
+			[
+				"offy",
+				"offsetY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vue-components/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/git/vue-components",
+		"/E/git/vue-components/vue-components",
+		"/E/git/vue-components/vue-components/src",
+		"/E/git/vue-components/vue-components/src/assets",
+		"/E/git/vue-components/vue-components/src/components"
+	],
+	"file_history":
+	[
+		"/E/git/vue-components/src/js/main.js",
+		"/E/git/vue-components/src/index.html",
+		"/E/git/vue-components/src/main.js",
+		"/E/study/python/index.html",
+		"/E/study/python/test.py",
+		"/E/study/python/wx.py",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Account/css/style.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/nav.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit20.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit7_sections_dom.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/price.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/style.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/js/editor.common.js",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/style.v2.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/pay.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/accountdetail.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit_right_top_dom.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit_right_top_dom.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Account/css/aboutus.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/log_sign.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/aboutus.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/js/login_contro.js",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/footer.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/js/resume_test_js2.js",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/inputurl.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/editor.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/editor.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/preview7.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/test_style7.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/test_style20.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/test_style9.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/preview1.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/edit_tool.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/resume21.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit22.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/information.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit21.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/Controller/ResumeController.class.php",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/test_style21.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/login.css",
+		"/E/xampp/htdocs/autoresume1212/前端文档.md",
+		"/E/xampp/htdocs/autoresume1212/README.md",
+		"/E/xampp/htdocs/autoresume1212/模板优化和新建注意事项.md",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/top.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/index.html",
+		"/C/Users/aaa/Desktop/update.sql",
+		"/C/Users/aaa/Documents/WeChat Files/vee2046/FileStorage/File/2019-03/demo1",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/responsibilities.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/account_header.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit9.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit7.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit9.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style9.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style20.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style7.css",
+		"/E/xampp/htdocs/autoresume1212/简历编辑.mmap",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/attributes.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/resume20.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/common.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/bootstrap.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/coverletter20.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit20.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Account/css/response.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Common/Conf/config.php",
+		"/E/xampp/htdocs/autoresume1212/Application/Common/Conf/development.php",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/myresume.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/mycoverletter.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/resume_header.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/header.html",
+		"/D/softwares_green/Sublime Text Build 3126 x64/Data/Packages/User/BeyondCompare.sublime-settings",
+		"/D/softwares_green/Sublime Text Build 3126 x64/Data/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/D/softwares_green/Sublime Text Build 3126 x64/Data/Packages/BeyondCompare/BeyondCompare.sublime-settings",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Account/css/myaccount.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit7.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/Resume/css/test_style22.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/edit_left_dom.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit21.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/edit22.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style22.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style21.css",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/style.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/education.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/language.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/keyskills.html",
+		"/E/xampp/htdocs/autoresume1212/.gitignore",
+		"/E/study/react-hello/src/App.css",
+		"/E/study/react-hello/src/App.js",
+		"/D/softwares_green/Sublime Text Build 3126 x64/Data/Packages/User/JsFormat.sublime-settings",
+		"/E/study/react-hello/node_modules/react-scripts/package.json",
+		"/E/study/react-hello/node_modules/react-scripts/scripts/start.js",
+		"/E/study/react-hello/README.md",
+		"/E/work-2018/5模板/elegant_font/HTML CSS/style.css",
+		"/E/work-2018/5模板/elegant_font/HTML CSS/index.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/workresponsibilities.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/coverletter22.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/js/jquery.madslider.js",
+		"/E/git/Jquery-Slider/example.html",
+		"/E/git/Jquery-Slider/README.md",
+		"/E/git/Jquery-Slider/jquery.madslider.js",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/js/auth.js",
+		"/C/Users/aaa/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/git/linkedin-auth2-firebase/.gitignore",
+		"/E/xampp/htdocs/autoresume_old/Application/Home/View/default/Account/index.html",
+		"/E/xampp/htdocs/autoresume1212/Application/User/Conf/production.php",
+		"/E/xampp/htdocs/autoresume1212/Application/User/Conf/development.php",
+		"/E/xampp/htdocs/autoresume1212/Application/User/Common/common.php",
+		"/E/xampp/htdocs/autoresume_old/Application/Home/View/default/Resume/edit9.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/savetemplate.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/filltemplate.html",
+		"/E/xampp/htdocs/autoresume/Public/static/qtip/jquery.qtip.js",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/User/register.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/selfdescription.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/CoverLetter/css/bootstrap.css",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Common/account_top.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/privacy.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/contactus.html",
+		"/E/git/browser/Browser.js",
+		"/E/git/browser/index.html",
+		"/E/git/browser/README.md",
+		"/E/git/browser/stat.html",
+		"/E/codes/codemirror-5.42.2/README.md",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/template_resume.html",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Account/ee.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/js/utils.js",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/CoverLetter/progressbar.html",
+		"/E/xampp/htdocs/autoresume1212/Public/Home/js/common.js",
+		"/E/xampp/htdocs/autoresume1212/Application/Home/View/default/Resume/professionalskills.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public\\Home",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume_old",
+			"E:\\xampp\\htdocs\\autoresume",
+			"E:\\xampp\\htdocs\\autoresume1212",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public\\Home",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public\\Home",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Account",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Account",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Account",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\CoverLetter",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\CoverLetter",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\CoverLetter",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public\\Home\\Resume\\js",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume1212\\Public\\Home\\Resume\\css",
+			"E:\\xampp\\htdocs\\autoresume1212\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default\\Resume",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default\\Common",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default\\Resume",
+			"E:\\work-2018\\12 Nov 2018\\wwwroot\\autoresume.com\\Public",
+			"E:\\work-2018\\12 Nov 2018\\wwwroot\\autoresume.com\\Application",
+			"E:\\work-2018\\12 Nov 2018\\wwwroot\\autoresume.com",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\Controller",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default\\Account",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public\\static\\bootstrap\\css",
+			"E:\\xampp\\htdocs\\autoresume",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Public",
+			"E:\\xampp\\htdocs\\autoresume\\Application",
+			"E:\\xampp\\htdocs\\autoresume\\Application\\Home\\View\\default",
+			"E:\\busi\\vote"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"circleProgressLoad_left",
+			"limited work",
+			"progress-bar-circle",
+			"circleProgress rightcircle",
+			"list",
+			"vlist",
+			".degree",
+			"edu",
+			"_progress_setChecked",
+			"edu",
+			"|jso",
+			"build-btn",
+			"Try Us For Free",
+			"price.html",
+			"lfheader-list",
+			"radio_bg",
+			"Automated Service",
+			"Express",
+			"moneyunit",
+			".moneyunit",
+			"Professional Review",
+			"modal-mask",
+			"_login",
+			"login",
+			"userid =",
+			"why",
+			"{:U",
+			"_download",
+			"Please confirm you have accepted terms and conditions",
+			"showMinTools(",
+			"showMinTools",
+			"vertical-separator",
+			"showMinTools",
+			"vertical-separator",
+			"$calendar",
+			"draghandel",
+			"popover-state-button",
+			"draghandel",
+			"masher",
+			"ispc",
+			"resume-parts",
+			"fl resume-parts r-itembar",
+			".com.au",
+			"textExecCommand",
+			"#textExecCommand",
+			"textExecCommand",
+			"editToolFns",
+			"editToolFns.show(",
+			"focusout",
+			"_showEditTool",
+			"点击内容",
+			"editToolFns.show(",
+			"var tools_dom = $(\"#textExecCommand\")",
+			"textExecCommand",
+			"_showEditTool",
+			"top:",
+			"hideMinTools",
+			"_showEditTool",
+			"_showMiniForTitle",
+			".ft18",
+			".column-right",
+			".panel-top",
+			".column-right p",
+			"preview7",
+			"preview7.html",
+			"/preview7",
+			"downloadPdf",
+			"/wkhtmltopdf",
+			"60%",
+			".top-dl",
+			".signup-btn",
+			"signup-btn",
+			"mailAutoComplete",
+			"mail",
+			"margin-left",
+			"    margin-left",
+			"$('#linkedinLogin').click(",
+			".signup-ck span",
+			"Enter your email address ",
+			"24",
+			"part-c",
+			"Personalise",
+			"please fill out",
+			"complete you profile",
+			"$apiTips",
+			"{$tips_str}",
+			"tips_str",
+			"window.editor_tips =",
+			"formEditorTip",
+			"_split",
+			"editor_tips",
+			"apitips",
+			"project",
+			"awards",
+			"</volist>",
+			"part-2",
+			"_h",
+			"_addmsg_html",
+			"created",
+			"checkPart1",
+			".show",
+			"on your",
+			" .example",
+			"data-value",
+			".example",
+			"coverletter",
+			".panel-top",
+			".dd-content",
+			".preview-con .dd-content",
+			".dd-content",
+			".title-contant",
+			".panel-top",
+			"模板",
+			"信模板",
+			"新模板",
+			".dd-content .cover_content",
+			"function _download()",
+			"gotoCreateOrDownload",
+			"preview-con",
+			"预览",
+			"下载",
+			"#userHead i.downicon",
+			"A prize/medal",
+			"$(\"#textExecCommand\")",
+			".edit-center.edit-tip .example p",
+			"On your bike m",
+			"li4",
+			"li4'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vue-components/src/App.vue",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vue-compents.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

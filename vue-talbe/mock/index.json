@@ -1,0 +1,20 @@
+{
+	"table": {
+		"count": 18,
+		"filtered": 1,
+		"total": [],
+		"data": [{
+			"dtRowId": 1,
+			"name": "Dashboard",
+			"icon": "tachometer-alt",
+			"has_children": false,
+			"order_index": 100,
+			"parent": null,
+			"route": "dashboard.index",
+			"created_at": "25-02-2019",
+			"computedIcon": "tachometer-alt"
+		}],
+		"fullRecordInfo": true,
+		"filters": true
+	}
+}
